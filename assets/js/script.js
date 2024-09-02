@@ -29,5 +29,6 @@ var investor = {
 // Call the function helloThis to check results
 helloThis();
 
+// Call the object methods to check results
 child.ageTenYears();
 investor.investment.investmentGrowth();
